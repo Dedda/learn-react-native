@@ -7,3 +7,4 @@ npm-debug.*
 *.mobileprovision
 android/app/build
 android/local.properties
+android/.gradle
